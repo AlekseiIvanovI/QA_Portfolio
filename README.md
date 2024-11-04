@@ -1,5 +1,4 @@
 # Portfolio Website
-[portfolio.webm](https://github.com/AlekseiIvanovI/Portfolio/assets/149438366/888fb1fb-56a2-4e9a-84e6-1215f30da727)
 
 
 
