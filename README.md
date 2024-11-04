@@ -6,7 +6,7 @@ This repository contains the source code and assets for my personal portfolio we
 
 ## Live Demo
 
-You can visit the live version of the website at [https://alexicoder.com/) 
+You can visit the live version of the website [here](https://vocal-peony-b3f0ca.netlify.app/)
 
 ## Technologies Used
 
